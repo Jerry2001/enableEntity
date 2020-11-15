@@ -1,0 +1,5 @@
+name: EnableEntity
+main: com.jerryngo.enableEntity.EnableEntity
+version: 1.0
+api-version: 1.16
+commands:
